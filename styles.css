@@ -2,7 +2,7 @@ body {
   font-family: "Helvetica", sans-serif;
   color: black;
   font-size 80;
-background: repeating-linear-gradient(-45deg, red 0%, yellow 10%, lime 20%, cyan 20.42%, cyan 28.56%, blue 27.7%, magenta 50%, red 46%);
+background: repeating-linear-gradient(-45deg, red 0%, yellow 60%, lime 20%, cyan 20.42%, cyan 28.56%, blue 27.7%, magenta 50%, red 46%);
     background-size: 600vw 600vw;
     animation: slide 10s infinite linear forwards;
   
