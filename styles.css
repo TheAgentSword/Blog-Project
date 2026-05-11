@@ -2,7 +2,7 @@ body {
   font-family: "Helvetica", sans-serif;
   color: black;
   font-size 80;
-background: repeating-linear-gradient(-45deg, red 0%, yellow 60%, lime 20%, cyan 20.42%, cyan 28.56%, blue 27.7%, magenta 50%, red 46%);
+background: repeating-linear-gradient(-45deg, red 0%, yellow 60%, lime 20%, cyan 20.42%, cyan 30%, blue 27.7%, magenta 50%, red 46%);
     background-size: 600vw 600vw;
     animation: slide 10s infinite linear forwards;
   
@@ -10,9 +10,9 @@ background: repeating-linear-gradient(-45deg, red 0%, yellow 60%, lime 20%, cyan
   
 }
 h1 {
-  color: #EFBF04;
+  color: #0F9438;
   font-family: "Times New Roman", serif;
-  font-size: 45px;
+  font-size: 39px;
 
   
 }
@@ -30,7 +30,10 @@ h4 {
   color:#f0d50a ;
   font-size: 20px ;
 }
-
+gap { 
+  padding: 20;
+  
+}
 
 
 
@@ -98,10 +101,11 @@ font-family:"Times New Roman", serif ;
 }
 #Text {
     color: #FFFFE3;
-    border: 7px ridge #15ab3d;
+    border: 0px ridge #950F73;
     padding: 20px;
     text-align: center;
 font-size: 25px;
+
 #1 {
 
 
